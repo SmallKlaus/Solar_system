@@ -1,0 +1,2 @@
+This is the header file I included to read picture data and use it as a texture in my project.
+The header file includes all the credited people.
